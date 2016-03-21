@@ -931,7 +931,6 @@ strong {
   margin: 0 auto;
   position: relative;
   padding: 0 20px;
-  text-align: center;
 }
 
 section img {
@@ -1185,10 +1184,10 @@ screen and (max-width: 480px) {
   nav {
     display: none;
   }
-  Contact {
-    margin-top: -500px;
+  .alignLeft {
+    float: left;
   }
-  Hobbies {
-    margin-top: -20px;
+  .alignRight {
+    float: right;
   }
- 
+  
