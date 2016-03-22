@@ -439,6 +439,7 @@ h4 {
 h5 {
   font-size: 0.83em;
   margin: 1.67em 0;
+  text-align: center;
 }
 
 h6 {
@@ -1184,10 +1185,3 @@ screen and (max-width: 480px) {
   nav {
     display: none;
   }
-  .alignLeft {
-    float: left;
-  }
-  .alignRight {
-    float: right;
-  }
-  
